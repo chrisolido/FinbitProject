@@ -23,7 +23,8 @@
 2. This is install Memcached
 
  brew install memcached
-
+ 
+ https://gist.github.com/tomysmile/ba6c0ba4488ea51e6423d492985a7953
  
 3. To install ActiveMQ
 
