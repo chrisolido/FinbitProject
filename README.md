@@ -28,6 +28,17 @@
  
 3. To install ActiveMQ
 
+ Install the App
+
+ Press Command+Space and type Terminal and press enter/return key.
+ Run in Terminal app:
+ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" < /dev/null 2> /dev/null
+ and press enter/return key. Wait for the command to finish.
+ Run:
+ brew install activemq
+
+
+
 4. To install Postgres
 
   brew install postgres
@@ -81,4 +92,4 @@
 
   /usr/local/Cellar/tomcat/[version]/libexec/webapps/
 
-
+  https://maltronic.io/2016/01/14/easily-install-apache-tomcat-on-mac-os-x-10-11-el-capitan-with-homebrew/
